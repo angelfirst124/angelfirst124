@@ -1,13 +1,10 @@
 ### Hey 👋, I'm [Ichiro Nishikawa!](https://www.linkedin.com/in/denis-nishikawa-8b0325227/)
 
-<a href="https://twitter.com/JainHarshet">
+<a href="https://twitter.com/denis-nishikawa">
   <img align="left" alt="Harshet's Twitter | Twitter" width="24px" src="https://img.icons8.com/color/96/000000/twitter--v2.png" />
 </a>
 <a href="https://www.linkedin.com/in/denis-nishikawa-8b0325227/">
   <img align="left" alt="Harshet's LinkedIN" width="24px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
-</a>
-<a href="https://medium.com/@harshetjain">
-  <img align="left" alt="Harshet's Medium" width="24px" src="https://img.icons8.com/ios-filled/100/000000/medium-monogram--v1.png" />
 </a>
 <br />
 <br />
@@ -21,11 +18,10 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 
 **Talking about Personal Stuffs/Achievements:**
 
-- 👨‍💻 Technical Volunteer @ [Arth - The School of Technologies](https://rightarth.com/)
+- 👨‍💻 Technical Volunteer @ [Arth - The School of Technologies](https://abema.tv/)
 - 🌱 Experience with DevOps tools: Docker, Kubernetes, Ansible etc
-- 🏅 Content Creater on [Medium](https://medium.com/@harshetjain)
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: harshetjain@yahoo.com
+- 📫 How to reach me: angelfirst930124@gmail.com
 
 <details>
 <summary>📊 Github Stats</summary>
