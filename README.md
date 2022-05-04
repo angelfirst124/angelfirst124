@@ -1,5 +1,7 @@
 ### Hey 👋, I'm 
+<!--
 ////[Ichiro Nishikawa!](https://www.linkedin.com/in/denis-nishikawa-8b0325227/)
+-->
 
 <a href="https://twitter.com/denis-nishikawa">
   <img align="left" alt="Harshet's Twitter | Twitter" width="24px" src="https://img.icons8.com/color/96/000000/twitter--v2.png" />
@@ -10,7 +12,7 @@
 <br />
 <br />
 
-I am a young IT Enthusiast. Right now, I am in my 3rd year of Engineering. I have practical knowledge of DevOps, Cloud Computing, Machine learning, Docker, Jenkins, Kubernetes, AWS, GCP, Big data, Hadoop. I am always passionate to learn about new technologies
+I am a young IT Enthusiast. Right now, I am in my 6rd year of Engineering. I have practical knowledge of Frontend and Backend DevOps, Cloud Computing,  Docker, Jenkins, Kubernetes, AWS, GCP. I am always passionate to learn about new technologies
 
 Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 and Football ⚽.
   <img align="right" alt="GIF" width="360" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
