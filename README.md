@@ -1,4 +1,5 @@
-### Hey 👋, I'm [Ichiro Nishikawa!](https://www.linkedin.com/in/denis-nishikawa-8b0325227/)
+### Hey 👋, I'm 
+////[Ichiro Nishikawa!](https://www.linkedin.com/in/denis-nishikawa-8b0325227/)
 
 <a href="https://twitter.com/denis-nishikawa">
   <img align="left" alt="Harshet's Twitter | Twitter" width="24px" src="https://img.icons8.com/color/96/000000/twitter--v2.png" />
