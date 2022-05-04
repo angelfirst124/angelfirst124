@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Ichiro Nishikawa!](https://www.linkedin.com/in/denis-nishikawa-8b0325227/)
+<!--### Hey 👋, I'm [Ichiro Nishikawa!](https://www.linkedin.com/in/denis-nishikawa-8b0325227/)
 
 
 <a href="https://twitter.com/denis-nishikawa">
