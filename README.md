@@ -11,7 +11,7 @@
 <br />
 <br />
 
-I am a young IT Enthusiast. Right now, I am in my 6rd year of Engineering. I have practical knowledge of Frontend and Backend DevOps, Cloud Computing,  Docker, Jenkins, Kubernetes, AWS, GCP. I am always passionate to learn about new technologies
+I am a young IT Enthusiast. Right now, I am in my 6rd year of Engineering. I have practical knowledge of Frontend and Backend development, DevOps, Cloud Computing,  Docker, Jenkins, Kubernetes, AWS, GCP. I am always passionate to learn about new technologies
 
 Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 and Football ⚽.
   <img align="right" alt="GIF" width="360" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -20,7 +20,6 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 
 **Talking about Personal Stuffs/Achievements:**
 
-- 👨‍💻 Technical Volunteer @ [Arth - The School of Technologies](https://abema.tv/)
 - 🌱 Experience with DevOps tools: Docker, Kubernetes, Ansible etc
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: angelfirst930124@gmail.com
