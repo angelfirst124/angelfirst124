@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Denis!](https://www.linkedin.com/in/denis-nishikawa-8b0325227/)
+### Hey 👋, I'm [Ichiro Nishikawa!](https://www.linkedin.com/in/denis-nishikawa-8b0325227/)
 
 
 <a href="https://twitter.com/denis-nishikawa">
@@ -10,7 +10,7 @@
 <br />
 <br />
 
-I am a young IT Enthusiast. Right now, I am in my 6rd year of Engineering. I have practical knowledge of Frontend and Backend , DevOps, Cloud Computing,  Docker, Jenkins, Kubernetes, AWS, GCP. I am always passionate to learn about new technologies
+I am a young IT Enthusiast. Right now, I am in my 6rd year of Engineering. I have practical knowledge of Frontend and Backend DevOps, Cloud Computing,  Docker, Jenkins, Kubernetes, AWS, GCP. I am always passionate to learn about new technologies
 
 Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 and Football ⚽.
   <img align="right" alt="GIF" width="360" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -50,6 +50,10 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+⭐️ You can find more about me in my portfolio website here: [Harshetjain666](http://Harshetjain.github.io/)
+
+
+**Harshetjain666/Harshetjain666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
