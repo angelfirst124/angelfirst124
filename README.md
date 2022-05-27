@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Denis Nishikawa!](https://www.linkedin.com/in/denis-nishikawa-8b0325227/)
+### Hey 👋, I'm [Denis !](https://www.linkedin.com/in/denis-nishikawa-8b0325227/)
 
 
 <a href="https://twitter.com/denis-nishikawa">
@@ -27,7 +27,7 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 <details>
 <summary>📊 Github Stats</summary>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Harshetjain666&show_icons=true&hide_border=true&theme=gotham" alt="Harshet Jain | Stats" />   
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=denis&show_icons=true&hide_border=true&theme=gotham" alt="Harshet Jain | Stats" />   
   
  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshetjain666&" alt="HarshetJain" /></p>
 
