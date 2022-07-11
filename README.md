@@ -24,17 +24,6 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: angelfirst930124@gmail.com
 
-<details>
-<summary>📊 Github Stats</summary>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=denis&show_icons=true&hide_border=true&theme=gotham" alt="Denis | Stats" />   
-  
- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshetjain666&" alt="Denis" /></p>
-
-
-</details>
-
-![Visitor Count](https://profile-counter.glitch.me/{Harshetjain666}/count.svg)
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
