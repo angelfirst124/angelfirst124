@@ -27,9 +27,9 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 <details>
 <summary>📊 Github Stats</summary>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=denis&show_icons=true&hide_border=true&theme=gotham" alt="Harshet Jain | Stats" />   
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=denis&show_icons=true&hide_border=true&theme=gotham" alt="Denis | Stats" />   
   
- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshetjain666&" alt="HarshetJain" /></p>
+ <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshetjain666&" alt="Denis" /></p>
 
 
 </details>
