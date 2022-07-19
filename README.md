@@ -22,7 +22,6 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 - 👨‍💻 Technical Volunteer @ [Arth - The School of Technologies](https://abema.tv/)
 - 🌱 Experience with DevOps tools: Docker, Kubernetes, Ansible etc
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: angelfirst930124@gmail.com
 
 
 **Languages and Tools:**
